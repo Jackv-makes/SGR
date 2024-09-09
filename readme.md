@@ -25,9 +25,9 @@ The board has only 6 components, which are all surface mounted and do require so
 
 Credit to marshallh for the board outline and people in the Gameboy Community for their continued support
 
-(marshallh's github)[https://github.com/marshallh/gbpp/tree/main]
-(Gameboy Discord)[https://discord.gg/xywcXQVD]
-(Modded Gameboy Club)[https://discord.gg/79MY8BsW]
+[marshallh's github](https://github.com/marshallh/gbpp/tree/main)
+[Gameboy Discord](https://discord.gg/xywcXQVD)
+[Modded Gameboy Club](https://discord.gg/79MY8BsW)
 
 
 # License
