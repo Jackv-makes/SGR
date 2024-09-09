@@ -18,7 +18,7 @@ Troubleshooting is done at my discretion, the design is simple enough that it wi
 The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL.
 
 # Bill of Materials & Assembly
-The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you don't trust yourself with bbuilding one, you can order them assembled from PCBWay/JLC.
+The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with bbuilding one, you can order them assembled from PCBWay/JLC.
 
 
 # Credit and Thanks
