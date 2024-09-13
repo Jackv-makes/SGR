@@ -20,12 +20,10 @@ Even though is board was made to be extremely easy, it still does require some b
 Troubleshooting is done at my discretion, the design is simple enough that it will either work or not.
 
 # Ordering
-
-The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL. I've included two gerber files, one with the components on the back of the board(reverse) and one with the components on the front. 
+The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL. I've included two gerber files, one with the components on the back of the board(reverse) and one with the components on the front.
 
 # Bill of Materials & Assembly
 The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with building one, you can order them assembled from PCBWay/JLC.
-
 
 # Credit and Thanks
 
@@ -34,7 +32,6 @@ Credit to marshallh for the board outline and people in the Gameboy Community fo
 - [marshallh's github](https://github.com/marshallh/gbpp/tree/main)
 - [Gameboy Discord](https://discord.gg/xywcXQVD)
 - [Modded Gameboy Club](https://discord.gg/79MY8BsW)
-
 
 # License
 
