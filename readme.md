@@ -17,7 +17,7 @@ This is a very basic Gameboy Pocket/Color regulator made in KiCad. It supplies 5
 # Disclaimer
 Even though is board was made to be extremely easy, it still does require some basic soldering skill to build and a basic understanding of electronics to test. I am by no means a professional electronics engineer and only do this as a hobby, if you see any improvements that you would like to make; feel free to fork the repo. Please note that this regulator WILL NOT work with the oem display because it does not include the needed voltage lines for it.
 
-Troubleshooting is done at my discretion, the design is simple enough that it will either work or not.
+Troubleshooting is done at my discretion, the design is simple enough that it will either work or not. I am not responsible for blown fuses, fires, injories, etc. that may happen if things are done incorrectly.
 
 # Ordering
 The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL. I've included two gerber files, one with the components on the back of the board(reverse) and one with the components on the front.
