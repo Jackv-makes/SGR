@@ -19,7 +19,7 @@ Troubleshooting is done at my discretion, the design is simple enough that it wi
 
 # Ordering
 
-The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL.
+The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL. I've included two gerber files, one with the components on the back of the board(reverse) and one with the components on the front. 
 
 # Bill of Materials & Assembly
 The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with bbuilding one, you can order them assembled from PCBWay/JLC.
@@ -27,7 +27,7 @@ The board has only 6 components, which are all surface mounted and do require so
 
 # Credit and Thanks
 
-Credit to marshallh for the board outline and people in the Gameboy Community for their continued support
+Credit to marshallh for the board outline and people in the Gameboy Community for their continued support!
 
 - [marshallh's github](https://github.com/marshallh/gbpp/tree/main)
 - [Gameboy Discord](https://discord.gg/xywcXQVD)
@@ -36,7 +36,7 @@ Credit to marshallh for the board outline and people in the Gameboy Community fo
 
 # License
 
-**Please note that I DO ALLOW these boards to be sold if it is fully assembled by the seller. The sale of unassembled PCBs or kits based on this design is strictly prohibited.**
+**Please note that these are opened source for the sole reason of allowing everyone the option to build their own regulators. Please follow the CC BY-NC-SA license terms**
 
  [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  
