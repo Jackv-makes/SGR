@@ -12,6 +12,7 @@ This is a very basic Gameboy Pocket/Color regulator made in KiCad. It supplies 5
 - Test points on the back for checking voltages
 - Removes the need for C32 and C35 on the Gameboy Color
 - Can be manufactured in any color you like to match your theme
+- Open Sourced, so you can do anything you want with it(fun shapes, artwork, etc.)
 
 # Disclaimer
 Even though is board was made to be extremely easy, it still does require some basic soldering skill to build and a basic understanding of electronics to test. I am by no means a professional electronics engineer and only do this as a hobby, if you see any improvements that you would like to make; feel free to fork the repo. Please note that this regulator WILL NOT work with the oem display because it does not include the needed voltage lines for it.
