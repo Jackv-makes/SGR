@@ -1,7 +1,8 @@
 # SGR(Simple Gameboy Regulator)
 This is a very basic Gameboy Pocket/Color regulator made in KiCad. It supplies 5V and can be used with the modern display kits, but it will not work with the oem display. The reason for the creation of this regulator is to offer an open source Gameboy Pocket/Color regulator that is easy to build.
 
-![Untitled video (18)](https://github.com/user-attachments/assets/8e97c90b-3f9a-4230-816f-9b245814f3b9)
+![Untitled video (19)](https://github.com/user-attachments/assets/7794e26a-479b-45be-ae0b-48362cb1e073)
+
 
 
 
