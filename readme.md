@@ -10,7 +10,6 @@ This is a very basic Gameboy Pocket/Color regulator made in KiCad. It supplies 5
 # Features
 - Supplies 5V voltage to Gameboy Pocket/Color
 - Easy to build, only needing 6 components
-- Test points on the back for checking voltages
 - Removes the need for C32 and C35 on the Gameboy Color
 - Can be manufactured in any color you like to match your theme
 - Open Sourced, so you can do anything you want with it(fun shapes, artwork, etc.)
