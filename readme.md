@@ -22,6 +22,8 @@ Troubleshooting is done at my discretion, the design is simple enough that it wi
 # Ordering
 The board can be ordered at any PCB manufacturer of your choice, if you choose to use PCBWay through my shared project link, I get a small commission. These can be ordered in any thickness and finish. I recommend around 1.2mm thickness and HASL. I've included two gerber files, one with the components on the back of the board(reverse) and one with the components on the front.
 
+[PCBWay Project](https://www.pcbway.com/project/shareproject/SGR_Simple_Gameboy_Regulator_e071975c.html)
+
 # Bill of Materials & Assembly
 The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with building one, you can order them assembled from PCBWay/JLC.
 
