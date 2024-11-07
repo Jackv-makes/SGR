@@ -25,7 +25,7 @@ The board can be ordered at any PCB manufacturer of your choice, if you choose t
 [PCBWay Project](https://www.pcbway.com/project/shareproject/SGR_Simple_Gameboy_Regulator_e071975c.html)
 
 # Bill of Materials & Assembly
-The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with building one, you can order them assembled from PCBWay/JLC.
+The board has only 6 components, which are all surface mounted and do require some basic soldering skills to build. If you are not very experienced, you will probably have a harder time with desoldering the existing regulator than soldering this one on. If you don't trust yourself with building one, you can order them assembled from PCBWay/JLC. Don't forget to buy some 2.54mm header pins!
 
 # Credit and Thanks
 
