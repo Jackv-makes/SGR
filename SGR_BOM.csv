@@ -1,4 +1,5 @@
 Designator,Footprint,Quantity,Value,Digikey Urls
 "C1, C2, C3, C4",805,4,4.7uF,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902
 L1,IND_3x3_SMD,1,SDCL1V3012-4R7M-R,https://www.digikey.com/en/products/detail/eaton-electronics-division/SDCL1V3012-4R7M-R/14564311
-U1,8-MSOP,1,MCP1642B-50I/MS,https://www.digikey.com/en/products/detail/microchip-technology/MCP1642B-50I-MS/5137716
+L1(Alternative),1008,1,LQM2HPN4R7MG0L,https://www.digikey.com/en/products/detail/eaton-electronics-division/SDCL1V3012-4R7M-R/14564311
+U1,8-MSOP,1,MCP1642B-50I/MS,https://www.digikey.com/en/products/detail/murata-electronics/LQM2HPN4R7MG0L/1893673
